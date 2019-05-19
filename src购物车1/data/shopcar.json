@@ -1,0 +1,197 @@
+{
+    "code": 0,
+    "data": {
+        "zhekou": {
+            "title": "折扣",
+            "icon": "http://p1.meituan.net/codeman/93231059874052e97c0976c8a6e30dbe910.png",
+            "list": [
+                {
+                    "id": 0,
+                    "price": 80,
+                    "count":0,
+                    "fontImg": "http://p0.meituan.net/mogu/17282c47cfa0cccb93bc5f78b5bab19d85459.jpg@353w_353h_1e_1c",
+                    "title": "折扣",
+                    "description": [
+                        "9块鸡肉",
+                        "9块鸡肉"
+                    ],
+                    "good": {
+                        "sale": 2,
+                        "zan": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "price": 180,
+                    "count":0,
+                    "fontImg": "https://img.meituan.net/msmerchant/c53b6767300957732490f471e149ca97359076.jpg@353w_353h_1e_1c",
+                    "title": "蒜香半+原味半",
+                    "description": [
+                        "9块鸡肉",
+                        "9块鸡肉"
+                    ],
+                    "good": {
+                        "sale": 2,
+                        "zan": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "price": 30,
+                    "count":0,
+                    "fontImg": "https://img.meituan.net/msmerchant/c53b6767300957732490f471e149ca97359076.jpg@353w_353h_1e_1c",
+                    "title": "蒜香半+原味半",
+                    "description": [
+                        "9块鸡肉",
+                        "9块鸡肉"
+                    ],
+                    "good": {
+                        "sale": 2,
+                        "zan": 0
+                    }
+                }
+            ]
+        },
+        "maizeng": {
+            "title": "买赠",
+            "list": [
+                {"id":3,
+                    "price": 80,
+                    "count":0,
+                    "fontImg": "http://p0.meituan.net/mogu/17282c47cfa0cccb93bc5f78b5bab19d85459.jpg@353w_353h_1e_1c",
+                    "title": "买赠",
+                    "description": [
+                        "9块鸡肉",
+                        "9块鸡肉"
+                    ],
+                    "good": {
+                        "sale": 2,
+                        "zan": 0
+                    }
+                },
+                {"id":4,
+                    "count":0,
+                    "price": 180,
+                    "fontImg": "https://img.meituan.net/msmerchant/c53b6767300957732490f471e149ca97359076.jpg@353w_353h_1e_1c",
+                    "title": "蒜香半+原味半",
+                    "description": [
+                        "9块鸡肉",
+                        "9块鸡肉"
+                    ],
+                    "good": {
+                        "sale": 2,
+                        "zan": 0
+                    }
+                },
+                {"id":5,
+                    "count":0,
+                    "price": 30,
+                    "fontImg": "https://img.meituan.net/msmerchant/c53b6767300957732490f471e149ca97359076.jpg@353w_353h_1e_1c",
+                    "title": "蒜香半+原味半",
+                    "description": [
+                        "9块鸡肉",
+                        "9块鸡肉"
+                    ],
+                    "good": {
+                        "sale": 2,
+                        "zan": 0
+                    }
+                }
+            ]
+        },
+        "xinpin": {
+            "title": "新品",
+            "list": [
+                {"id":6,
+                    "count":0,
+                    "price": 80,
+                    "fontImg": "http://p0.meituan.net/mogu/17282c47cfa0cccb93bc5f78b5bab19d85459.jpg@353w_353h_1e_1c",
+                    "title": "新品",
+                    "description": [
+                        "9块鸡肉",
+                        "9块鸡肉"
+                    ],
+                    "good": {
+                        "sale": 2,
+                        "zan": 0
+                    }
+                },
+                {"id":7,
+                    "count":0,
+                    "price": 180,
+                    "fontImg": "https://img.meituan.net/msmerchant/c53b6767300957732490f471e149ca97359076.jpg@353w_353h_1e_1c",
+                    "title": "蒜香半+原味半",
+                    "description": [
+                        "9块鸡肉",
+                        "9块鸡肉"
+                    ],
+                    "good": {
+                        "sale": 2,
+                        "zan": 0
+                    }
+                },
+                {"id":8,
+                    "count":0,
+                    "price": 30,
+                    "fontImg": "https://img.meituan.net/msmerchant/c53b6767300957732490f471e149ca97359076.jpg@353w_353h_1e_1c",
+                    "title": "蒜香半+原味半",
+                    "description": [
+                        "9块鸡肉",
+                        "9块鸡肉"
+                    ],
+                    "good": {
+                        "sale": 2,
+                        "zan": 0
+                    }
+                }
+            ]
+        },
+        "zhaji": {
+            "title": "炸鸡",
+            "list": [
+                {"id":9,
+                    "count":0,
+                    "price": 80,
+                    "fontImg": "http://p0.meituan.net/mogu/17282c47cfa0cccb93bc5f78b5bab19d85459.jpg@353w_353h_1e_1c",
+                    "title": "炸鸡",
+                    "description": [
+                        "9块鸡肉",
+                        "9块鸡肉"
+                    ],
+                    "good": {
+                        "sale": 2,
+                        "zan": 0
+                    }
+                },
+                {"id":10,
+                    "count":0,
+                    "price": 180,
+                    "fontImg": "https://img.meituan.net/msmerchant/c53b6767300957732490f471e149ca97359076.jpg@353w_353h_1e_1c",
+                    "title": "蒜香半+原味半",
+                    "description": [
+                        "9块鸡肉",
+                        "9块鸡肉"
+                    ],
+                    "good": {
+                        "sale": 2,
+                        "zan": 0
+                    }
+                },
+                {"id":11,
+                    "count":0,
+                    "price": 30,
+                    "fontImg": "https://img.meituan.net/msmerchant/c53b6767300957732490f471e149ca97359076.jpg@353w_353h_1e_1c",
+                    "title": "蒜香半+原味半",
+                    "description": [
+                        "9块鸡肉",
+                        "9块鸡肉"
+                    ],
+                    "good": {
+                        "sale": 2,
+                        "zan": 0
+                    }
+                }
+            ]
+        }
+    }
+}
